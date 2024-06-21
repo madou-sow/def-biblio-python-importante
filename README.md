@@ -30,7 +30,7 @@ Il contient par exemple des modules pour l'optimisation, l'algèbre linéaire, l
 
 Il offre également des possibilités avancées de visualisation grâce au module matplotlib.
 
-## Définition Matplotlib
+## Définition Matplotlib
 
 matplotlib est une bibliothèque Python capable de produire des graphes de qualité. matplotlib peut être utilisé dans des scripts Python, le shell Python et IPython, le notebook Jupyter, des serveurs d’application web et dans quatre outils d’interface graphique. Elle peut être combinée avec les bibliothèques python de calcul scientifique NumPy et SciPy. Elle fournit également une API orientée objet, permettant d'intégrer des graphiques dans des applications, utilisant des outils d'interface graphique polyvalents tels que Tkinter, wxPython, Qt ou GTK.
 
