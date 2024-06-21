@@ -1,6 +1,6 @@
 # Definition de quelques bibliothèques importantes en python
 
-## Definition Scikit-learn
+## Definition Scikit-learn
 
 Scikit-learn est une bibliothèque libre Python destinée à l'apprentissage automatique. Elle est développée par de nombreux contributeurs notamment dans le monde académique par des instituts français d'enseignement supérieur et de recherche comme Inria.
 
@@ -10,7 +10,7 @@ Elle comprend notamment des fonctions pour estimer des forêts aléatoires, des 
 
 Alternative de skearn : mllib, weka, torch
 
-## Définition Numpy
+## Définition Numpy
 
 NumPy est une bibliothèque pour le langage de programmation Python, destinée à manipuler des matrices ou tableaux multidimensionnels ainsi que des fonctions mathématiques opérant sur ces tableaux.
 
