@@ -1,4 +1,4 @@
-# Definition de quelques bibliothèques importantes en python
+# Quelques bibliothèques importantes en python
 
 ## Definition Scikit-learn
 
